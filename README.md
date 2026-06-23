@@ -60,10 +60,6 @@ Experiments with Artificial Neural Networks, classification models, and data ana
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dassino&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deborah-dev-lab&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 </div>
 
 <div align="center">
@@ -71,6 +67,10 @@ Experiments with Artificial Neural Networks, classification models, and data ana
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dassino&theme=default&hide_border=true)
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deborah-dev-lab&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
