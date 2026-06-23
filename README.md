@@ -24,19 +24,22 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
  
 ---
  
-## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
+
  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dassino&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dassino&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
+## 📊 GitHub Stats
  
-  <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dassino&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
-</p>
-</p>
+<div align="center">
  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dassino&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true%22 />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dassino&layout=compact&theme=default&hide_border=true&langs_count=6%22 />
+ 
+</div>
+ 
+<div align="center">
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=Dassino&theme=default&hide_border=true)
+ 
+</div> 
 ---
  
 ## Connect With Me
